@@ -1,0 +1,15 @@
+Vetan
+├── App.js
+├── app
+│   ├── _layout.js
+│   └── index.js
+├── app.json
+├── assets
+│   ├── adaptive-icon.png
+│   ├── favicon.png
+│   ├── icon.png
+│   └── splash-icon.png
+├── index.js
+├── package-lock.json
+├── package.json
+└── project-structure.txt
